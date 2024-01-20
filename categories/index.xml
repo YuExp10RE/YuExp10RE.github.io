@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - Yu&#39;s Exp10RE Space</title>
+        <link>https://YuExp10RE.github.io/categories/</link>
+        <description>Categories - 分类 - Yu&#39;s Exp10RE Space</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>yu.exp10re@foxmail.com (YuExp10RE)</managingEditor>
+            <webMaster>yu.exp10re@foxmail.com (YuExp10RE)</webMaster><lastBuildDate>Sat, 20 Jan 2024 04:01:40 &#43;0800</lastBuildDate><atom:link href="https://YuExp10RE.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Daily</title>
+    <link>https://YuExp10RE.github.io/categories/daily/</link>
+    <pubDate>Sat, 20 Jan 2024 04:01:40 &#43;0800</pubDate><author>
+        <name>YuExp10RE</name>
+    </author><guid>https://YuExp10RE.github.io/categories/daily/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
