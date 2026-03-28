@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Welcome - 标签 - Yu&#39;s Exp10RE Space</title>
+        <link>https://YuExp10RE.github.io/tags/welcome/</link>
+        <description>Welcome - 标签 - Yu&#39;s Exp10RE Space</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 20 Jan 2024 04:01:40 &#43;0800</lastBuildDate><atom:link href="https://YuExp10RE.github.io/tags/welcome/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello</title>
+    <link>https://YuExp10RE.github.io/posts/hello/</link>
+    <pubDate>Sat, 20 Jan 2024 04:01:40 &#43;0800</pubDate><author>
+        <name>作者</name>
+    </author><guid>https://YuExp10RE.github.io/posts/hello/</guid>
+    <description><![CDATA[<p>Hello, Welcome to Yu&rsquo;s Exp10RE Space.</p>
+<p>I&rsquo;m Yu, a childlike explorer.</p>]]></description>
+</item></channel>
+</rss>
